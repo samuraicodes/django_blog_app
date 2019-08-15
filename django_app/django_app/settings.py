@@ -23,7 +23,7 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SECRET_KEY = '&ld%%-ek$qjnavdq&1dx-2w@#z(-@&=cyvc#3u5_&te9!@@ktn'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = ['127.0.0.1', 'http://samuraicodes.pythonanywhere.com/']
 
